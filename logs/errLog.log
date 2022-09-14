@@ -1,0 +1,2 @@
+20220912	19:00:12	0e067fb9-f9af-4756-93e7-b47a352f1f15	TypeError: Assignment to constant variable.	GET	/api/v1/products?sort=name%20-price	undefined
+20220912	19:00:36	426cfeb2-8c2e-43ea-b560-1ffaef55803a	ReferenceError: results is not defined	GET	/api/v1/products?sort=name%20-price	undefined
